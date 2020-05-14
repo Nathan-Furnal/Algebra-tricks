@@ -5,4 +5,4 @@ The relevant explanations are in the notebook itself.
 
 ## Accessibility
 
-The notebook can be interacted with here : https://mybinder.org/v2/gh/Nathan-Furnal/Algebra-tricks/master.
+The notebook can be interacted with here : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nathan-Furnal/Algebra-tricks/master).
